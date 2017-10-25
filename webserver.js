@@ -16,3 +16,5 @@ module.exports = {
     server.close();
   }
 }
+
+module.exports.start();
